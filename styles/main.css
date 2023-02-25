@@ -1,0 +1,9 @@
+@media screen and (max-width: 600px) {
+    #cards, #calculation-card{
+        width: 100% !important;
+        margin-bottom: 50px;
+    }
+    #Geometry{
+        align-items: center;
+    }
+}
